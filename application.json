@@ -1,12 +1,13 @@
 {
   "appIsExample": false,
   "appLayout": {
-    "type": "TABLET_LARGE"
+    "type": "DESKTOP"
   },
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
-  "color": "#F3F1C7",
+  "color": "#E4D8CC",
   "evaluationVersion": 2,
+  "icon": "globe",
   "pages": [
     {
       "id": "Page1",
@@ -14,6 +15,6 @@
     }
   ],
   "unpublishedAppLayout": {
-    "type": "TABLET_LARGE"
+    "type": "DESKTOP"
   }
 }
